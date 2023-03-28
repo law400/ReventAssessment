@@ -1,5 +1,5 @@
 A brief decription of the project . 
-
+Download or clone the last project 
 The application  comprises of two projects : the dataaccess  and the main project . 
 
 The the business logic and the database connection are in the dataaccess project 
